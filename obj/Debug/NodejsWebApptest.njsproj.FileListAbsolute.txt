@@ -1,0 +1,3 @@
+C:\Users\TU NGUYEN\source\repos\NodejsWebApptest\NodejsWebApptest\obj\Debug\NodejsWebApptest.njsproj.AssemblyReference.cache
+C:\Users\TU NGUYEN\source\repos\NodejsWebApptest\NodejsWebApptest\obj\Debug\NodejsWebApptest.njsproj.CoreCompileInputs.cache
+C:\Users\TU NGUYEN\source\repos\NodejsWebApptest\NodejsWebApptest\bin\Microsoft.NodejsTools.WebRole.dll
